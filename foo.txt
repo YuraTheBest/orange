@@ -1,4 +1,0 @@
-foo
-xexe
-bar
-baz
